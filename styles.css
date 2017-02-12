@@ -1,0 +1,64 @@
+header {
+  font-family: "Open Sans";
+  text-align: left;
+  letter-spacing: 1px;
+  height: 100px;
+  padding: 80px;
+  margin-bottom: 30px;
+  background: yellow;
+  overflow-y: hidden;
+  }
+
+  li {
+       position: relative; left: -100px;
+     }
+
+nav {
+font-family: "Open Sans";
+padding-left: 10px;
+padding-bottom: 25px;
+text-decoration-skip: none;
+}
+  body {
+      display: block;
+      margin: 0px;
+  }
+  aside {
+    float:right;
+    width: 600px;
+    padding-left: 30px;
+    padding-right: 50px;
+    float: top:
+    font-size: 20 px;
+    font-family: "Open Sans";
+  }
+
+img{
+    border-radius: 10%;
+    padding-left: 20px;
+    width: 25%;
+    length: 25%
+}
+
+footer {
+  position: relative;
+}
+
+.left {
+  position: absolute;
+  left: 3px;
+}
+
+.right {
+  position: absolute;
+  right: 19px;
+}
+
+.center {
+  position: absolute;
+  left: 500px
+}
+
+footer {
+  padding-top: 100px;
+}
